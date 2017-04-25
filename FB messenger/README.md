@@ -4,6 +4,6 @@ This is a simple python template that uses Flask to build a webhook for Facebook
 
 ## Output ##
 
-![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/1.png =300*250)
+![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/1.png)
 ![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/2.png)
 ![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/3.png)
