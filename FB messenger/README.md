@@ -7,5 +7,5 @@ Use wit.ai to build applications and devices that you can talk or text to.
 ## Output ##
 
 ![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/1.png)
-https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/2.png
-https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/3.png
+![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/2.png)
+![](https://github.com/shahparth06/home-automation/blob/master/FB%20messenger/3.png)
